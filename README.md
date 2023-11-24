@@ -1,3 +1,3 @@
 # DataScience_Demo
 <br>
-Author-Jagadeesh Annapareddy
+Author-Jagadeesh (Data Science)
